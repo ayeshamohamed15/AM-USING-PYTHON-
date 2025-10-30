@@ -35,6 +35,8 @@ Note: Keep all the switch faults in off position
 
 ## Tabular Column
 
+![WhatsApp Image 2025-10-30 at 14 31 41_dcdb3a3d](https://github.com/user-attachments/assets/5e2aedf8-238b-4c77-92d8-6f99f480bf38)
+
 
 ## Result
 The message signal, carrier signal, and Amplitude modulated (AM) signal will be displayed in separate plots. The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
